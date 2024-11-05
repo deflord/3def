@@ -12,5 +12,5 @@
 * Настроен CAN
 * Скрипты для автоматического расширения образа на всю MicroSD
 
-Образ доступен для скачивания по ссылке [Orange Pi 3B](https://mega.nz/file/iZhUja5S#ZvC6x_fPFhv65GwQLGQkiX5xp_iRCiZp3CLOHGuOD-M).
+Образ доступен для скачивания по ссылке [Orange Pi 3B](https://mega.nz/file/TdpzDAbS#Le2-5hxRWCd8Wit2h-JfqoEiYUKdBW2nbB_KZ6QXemg).
 
