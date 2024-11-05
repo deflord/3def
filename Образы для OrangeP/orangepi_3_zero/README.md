@@ -10,5 +10,6 @@
 * Поддержку CAN
 * Katapult
 * Klippain-Shaketune
+* Скрипты для автоматического расширения образа на всю MicroSD
 
 Образ доступен для скачивания по ссылке [OrangePI 3 Zero](https://mega.nz/file/TcYR1Qrb#NRjWIfK2MXL8XWC1-TuNzy4bhytpi9K7qcDxZMbB4Rc).
