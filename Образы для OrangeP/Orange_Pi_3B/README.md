@@ -7,7 +7,6 @@
 * Mainsail в качестве вэб интерфейса
 * Crowsnest
 * KlipperScreen
-* Поддержку CAN
 * Katapult
 * Klippain-Shaketune
 * Скрипты для автоматического расширения образа на всю MicroSD
