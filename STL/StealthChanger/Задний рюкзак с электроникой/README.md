@@ -6,6 +6,11 @@
 В рюкзак приходят кабели USB для подключения BTT U2C и кабель 24В для запитывания голов. 
 Кабели проходят внутри, заходят внутрь принтера через прорези и далее разводятся влево и вправо по профилю. 
 
+![Image alt](https://github.com/deflord/3def/blob/main/STL/StealthChanger/Задний%20рюкзак%20с%20электроникой/IMG/1.png?raw=true)
+![Image alt](https://github.com/deflord/3def/blob/main/STL/StealthChanger/Задний%20рюкзак%20с%20электроникой/IMG/2.png?raw=true)
+![Image alt](https://github.com/deflord/3def/blob/main/STL/StealthChanger/Задний%20рюкзак%20с%20электроникой/IMG/3.png?raw=true)
+![Image alt](https://github.com/deflord/3def/blob/main/STL/StealthChanger/Задний%20рюкзак%20с%20электроникой/IMG/4.png?raw=true)
+
 Преимущества:
 1. Поддерживается жесткое крепление стального корода каждой головы что бы избежать перекручивания и увеличить устойчивость проводки
 2. Удобный доступ к платам, снимаете крышку и всё видно
