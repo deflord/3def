@@ -10,11 +10,11 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ '',
-/* time_stamp */ '2025-10-08T21:46:23+03:00',
+/* time_stamp */ '2026-03-02T23:37:32+03:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v14.17.0.0',
+/* originating_system */ 'Autodesk Translation Framework v14.24.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -6152,8 +6152,11 @@ $,(#6067));
 #6070=SURFACE_STYLE_USAGE(.BOTH.,#6071);
 #6071=SURFACE_SIDE_STYLE('',(#6072));
 #6072=SURFACE_STYLE_FILL_AREA(#6073);
-#6073=FILL_AREA_STYLE('Steel - Satin',(#6074));
-#6074=FILL_AREA_STYLE_COLOUR('Steel - Satin',#6075);
-#6075=COLOUR_RGB('Steel - Satin',0.627450980392157,0.627450980392157,0.627450980392157);
+#6073=FILL_AREA_STYLE(
+'PA 11 - Nylon- HP 11-30 (with EOS P 396 3D Printer)',(#6074));
+#6074=FILL_AREA_STYLE_COLOUR(
+'PA 11 - Nylon- HP 11-30 (with EOS P 396 3D Printer)',#6075);
+#6075=COLOUR_RGB('PA 11 - Nylon- HP 11-30 (with EOS P 396 3D Printer)',
+0.247058823529412,0.247058823529412,0.247058823529412);
 ENDSEC;
 END-ISO-10303-21;
