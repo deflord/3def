@@ -1,6 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/optional/client_macros.cfg]
-[include mmu/addons/mmu_eject_buttons.cfg]
 [respond]
 
 #####################################################################
@@ -11,7 +8,7 @@
 [include timelapse.cfg]             # Конфигурация таймлапсов
 [include nozzle_scrub.cfg]          # Очистка сопла
 [include offmodule.cfg]             # Модуль включения и выключения
-# [include orbiter_smart_sensor.cfg]       # Датчик филамента
+[include orbiter_smart_sensor.cfg]       # Датчик филамента
 [include led.cfg]                   # Макросы освещения области печати
 [include start_end.cfg]             # Макросы начала и окончания печати
 [include speed_test.cfg]            # Макрос тестирования скоростей и ускорений
@@ -558,10 +555,10 @@ gantry_corners:
 	-60,-10
 	560,527
 points:
-	50,30
+	50,10
 	50,450
 	450,450
-	450,30
+	450,10
 #--------------------------------------------------------------------
 speed: 230                          # Скорость, с которой будет перемещаться голова при QGL
 horizontal_move_z: 10               # Высота, на которую будет подниматься ось Z при перемещении для выравнивания портала
